@@ -2,7 +2,6 @@ C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcorea
 C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.json
 C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.runtimeconfig.dev.json
 C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.1\RazorPagesMovie.dll
-C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csprojAssemblyReference.cache
 C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.csproj.CoreCompileInputs.cache
 C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cache
 C:\Users\Daymian\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.1\RazorPagesMovie.RazorAssemblyInfo.cs
